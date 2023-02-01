@@ -25,7 +25,7 @@
 <a href="https://kaggle.com/chriz nganga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chriz nganga" height="30" width="40" /></a>
 <a href="https://fb.com/chriz nganga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chriz nganga" height="30" width="40" /></a>
 <a href="https://instagram.com/chriznganga69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chriznganga69" height="30" width="40" /></a>
-<a href="https://https://[www.youtube.com/@chriznganga258]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chriz nganga" height="30" width="40" /></a>
+<a href="https://https://www.youtube.com/@chriznganga258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chriz nganga" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chriz nganga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chriz nganga" height="30" width="40" /></a>
 </p>
 
