@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif)](https://themathematcs.io)
 <h1 align="center">Hi 👋, I'm christian ng'ang'a</h1>
-<h3 align="center">A passionate frontend developer from kenya</h3>
+<h3 align="center">A passionate software engineer from kenya</h3>
 <img align="right" alt"codding" src="https://media.tenor.com/fq-1gwJhSf8AAAAM/baby-koding-baby.gif">
 
 <p align="left"> <img src="https://media.tenor.com/x7FrMk4q10IAAAAM/hacker-reality-colored-keyboard.gif" alt="themathematcs" /> </p>
