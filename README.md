@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://media.tenor.com/x7FrMk4q10IAAAAM/hacker-reality-colored-keyboard.gif" alt="themathematcs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@chriznganga" target="blank"><img src="https://img.shields.io/twitter/follow/@chriznganga?logo=twitter&style=for-the-badge" alt="@chriznganga" /></a> </p>
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Whats!+up+my+dear+programmer+.+Profile;prepare+to+be+amaized;#+Respect+Passion+hard+work;are+the+key+elements)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **software engineering, AI, game development**
 
