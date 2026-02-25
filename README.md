@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **software engineering, AI, game development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/themathematcs](https://github.com/themathematcs)
+- 👨‍💻 All of my projects are available at [https://christianngnga.netlify.app/](https://christianngnga.netlify.app/)
 
 - 💬 Ask me about **c++, JavaScript, c, python, ruby and more**
 
